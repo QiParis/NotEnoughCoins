@@ -1,0 +1,9 @@
+{
+  "compatibilityLevel": "JAVA_8",
+  "package": "me.iparis.notenoughcoins.mixins",
+  "refmap": "mixins.nec.refmap.json",
+  "mixins": [
+    "MixinGuiContainer"
+  ],
+  "verbose": true
+}

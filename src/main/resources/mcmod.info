@@ -1,0 +1,17 @@
+[
+  {
+    "modid": "nec",
+    "name": "NotEnoughCoins",
+    "description": "Devenez riche en Hypixel Skyblock.",
+    "version": "${version}",
+    "mcversion": "1.8.9",
+    "url": "https://github.com/QiParis/NotEnoughCoins",
+    "updateUrl": "https://github.com/QiParis/NotEnoughCoins",
+    "authorList": [
+      "iParis"
+    ],
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
